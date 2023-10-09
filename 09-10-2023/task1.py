@@ -1,0 +1,1 @@
+print ("he's not a human being".split())
